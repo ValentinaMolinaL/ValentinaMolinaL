@@ -10,6 +10,6 @@ I like programming and I enjoy art very much.
 - Flexibility
 - Motivation
 - Analytical thinking
-##
+## Studies
 - Basic knowledge of Python, HTML and CSS
 - I am currently studying GitHub and in the future Java and JavaScript.
