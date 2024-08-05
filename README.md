@@ -1,16 +1,15 @@
-## Hi there 👋
+## Valentina Molina 
 
-<!--
-**ValentinaMolinaL/ValentinaMolinaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello my name is Valentina Molina I am 21 years old.
 
-Here are some ideas to get you started:
+I like programming and I enjoy art very much.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 
+Critical thinking
+Problem solving
+Flexibility
+Motivation
+Analytical thinking
+##
+Basic knowledge of Python, HTML and CSS
+I am currently studying GitHub and in the future Java and JavaScript.
