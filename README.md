@@ -11,5 +11,5 @@ I like programming and I enjoy art very much.
 - Motivation
 - Analytical thinking
 ##
-Basic knowledge of Python, HTML and CSS
-I am currently studying GitHub and in the future Java and JavaScript.
+- Basic knowledge of Python, HTML and CSS
+- I am currently studying GitHub and in the future Java and JavaScript.
