@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Hola soy Valentina Molina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![val;Mol](https://raw.githubusercontent.com/ValentinaMolinaL/ValentinaMolinaL/refs/heads/main/img/logo.png)
+![val;Mol](https://github.com/ValentinaMolinaL/ValentinaMolinaL/blob/main/img/Captura%20de%20pantalla%202025-03-12%20015720.png?raw=true)
 </div>
 
 <br>
